@@ -1,6 +1,6 @@
 # Grpc Server
 
-[项目地址](https://github.com/ychengcloud/grpc-template)
+[项目地址](https://github.com/ychengcloud/contrib/tree/main/grpc)
 
 ## Features
 

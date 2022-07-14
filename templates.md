@@ -24,7 +24,7 @@ templates
 
 ## 官方模板
 
-- [x] [grpc](https://github.com/ychengcloud/contrib/grpc) - 符合 Golang 设计哲学的工程框架,支持查询过滤、排序、分页、指定返回字段、批量创建、批量查询、批量更新、批量删除
+- [x] [grpc](https://github.com/ychengcloud/contrib/tree/main/grpc) - 符合 Golang 设计哲学的工程框架,支持查询过滤、排序、分页、指定返回字段、批量创建、批量查询、批量更新、批量删除
 
 
 ## 社区模板
