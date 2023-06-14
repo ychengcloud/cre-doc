@@ -200,7 +200,7 @@ project: blog
 package: "<package name>"
 # 数据库配置
 dialect: "mysql"
-dsn: "mysql://<user>:<password>@tcp(127.0.0.1:3306)/blog?charset=utf8mb4"
+dsn: "<user>:<password>@tcp(127.0.0.1:3306)/blog?charset=utf8mb4"
 # 模板根路径
 root: "$HOME/.cre/contrib/grpc/templates"
 # 模板生成根路径
